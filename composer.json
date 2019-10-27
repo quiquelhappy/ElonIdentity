@@ -1,0 +1,12 @@
+{
+    "name": "quiquelhappy/elon",
+    "authors": [
+        {
+            "name": "quiquelhappy",
+            "email": "quiquelhappy@gmail.com"
+        }
+    ],
+    "require": {
+        "j7mbo/twitter-api-php": "^1.0"
+    }
+}
